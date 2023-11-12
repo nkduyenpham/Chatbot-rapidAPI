@@ -4,7 +4,7 @@
 
 This project is a chatbot built with Django that incorporates the power of Rapid API to provide real-time, dynamic responses and interactions with users through a web interface. Whether you want to create a customer support chatbot, a virtual assistant, or simply a fun and informative chatbot, this project provides a foundation for your endeavors.
 
-![Chatbot](https://github.com/nkduyenpham/Chatbot-rapidAPI/blob/main/Screen%20Shot%202023-11-13%20at%2000.08.47.png)
+![Chatbot](https://github.com/nkduyenpham/Chatbot-rapidAPI/blob/main/Chatbot%20UI.png)
 
 ## Key Features
 
